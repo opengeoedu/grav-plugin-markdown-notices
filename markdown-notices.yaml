@@ -1,4 +1,9 @@
 enabled: true
 built_in_css: true
-base_classes: 'notices'
-level_classes: [yellow, red, blue, green]
+level_classes:
+  - yellow
+  - blue
+  - red
+  - green
+  - green2
+  - green3
