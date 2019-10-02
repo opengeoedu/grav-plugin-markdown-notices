@@ -4,7 +4,7 @@ namespace Grav\Plugin;
 use Grav\Common\Plugin;
 use RocketTheme\Toolbox\Event\Event;
 
-class MarkdownNoticesPlugin extends Plugin
+class MarkdownNoticesPluginOGE extends Plugin
 {
     protected $base_classes;
     protected $level_classes;
